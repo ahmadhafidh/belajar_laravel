@@ -34,3 +34,5 @@ class PegawaiController extends Controller
         return redirect('/pegawai')->with('Sukses','Data berhasil dihapus');
     }
 }
+
+// approved belajar crud laravel magang umy
